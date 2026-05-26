@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyurocess",
+        "uuid": 4054689,
+        "checksum": "fwtvs"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
